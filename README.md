@@ -5,3 +5,4 @@
 - people transportation
 - price adjustments?
 - demand? 
+- labour market
