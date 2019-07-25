@@ -1,8 +1,9 @@
 # stochastic_modelling
 
 - pollution management
-- resource stock
+- exhaustible   resource stock
 - people transportation
-- price adjustments?
+- price adjustments? competitve firm under price uncertainty?
 - demand? 
 - labour market
+- patents, stochastic discovery process
