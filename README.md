@@ -1,4 +1,4 @@
-# stochastic_modelling
+#### Stochastic modelling
 
 - pollution management
 - exhaustible   resource stock
